@@ -12,6 +12,5 @@ This project is based on a Coding club, created as a demonstration of web develo
 - HTML
 - CSS
 
-##
-![image]( file:///C:/Users/Prem/Downloads/Web%20capture_28-9-2023_211523_thepandoraaa.netlify.app.jpeg)
+
 
